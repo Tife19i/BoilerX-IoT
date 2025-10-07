@@ -6,7 +6,7 @@ import { getDatabase, ref, set, onValue } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBH2A8l43VjIsLUIrnbiuvLRINrcQWMkFo",
+  apiKey: "Private/hidden",
   authDomain: "boilerxtemp.firebaseapp.com",
   databaseURL: "https://boilerxtemp-default-rtdb.firebaseio.com",
   projectId: "boilerxtemp",
