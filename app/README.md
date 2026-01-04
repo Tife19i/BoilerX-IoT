@@ -1,6 +1,6 @@
 * App
 
-This folder contains the mobile application code for the BoilerX-IoT project. The app is designed to display real-time temperature data, receive alerts, and visualize sensor data.
+This folder contains the mobile application code for the BoilerX-IoT project. The app is designed to display real-time temperature data, receive alerts, and visualize sensor data.The first time you start the app you will be prompted to input name,email any your ESP device Serial Number.
 
 * Key Features
 - **Real-Time Monitoring**: View live temperature readings and WiFi status.
