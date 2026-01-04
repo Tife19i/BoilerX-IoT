@@ -5,8 +5,8 @@
 #include <addons/RTDBHelper.h>
 
 // WiFi credentials
-#define WIFI_SSID "VODAFONE-E200"
-#define WIFI_PASSWORD "ErETJAKKMng73PdM"
+#define WIFI_SSID "XXXXXXXXXX"
+#define WIFI_PASSWORD "XXXXXXXXXXXXXXX"
 
 // Firebase credentials
 #define DATABASE_URL "XXXXXXXXXXXXXXXXXXXXXXXXXXXX" // hidden
