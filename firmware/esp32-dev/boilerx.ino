@@ -9,8 +9,8 @@
 #define WIFI_PASSWORD "ErETJAKKMng73PdM"
 
 // Firebase credentials
-#define DATABASE_URL "https://boilerxtemp-default-rtdb.firebaseio.com/"
-#define DATABASE_SECRET "nymjP1yy25XqkOwjukZsYyJvQYPgJJGlu8Q6BVwj"
+#define DATABASE_URL "XXXXXXXXXXXXXXXXXXXXXXXXXXXX" // hidden
+#define DATABASE_SECRET "XXXXXXXXXXXXXXXXXXXXXXXXXXX" // hidden
 
 // Temperature sensor
 #define TEMP_SENSOR_PIN 36  // [GPIO36 = ADC1/VP for ESP32chip] [GPIO2 for ESP32-c3]
